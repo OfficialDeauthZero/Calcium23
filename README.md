@@ -9,3 +9,4 @@ BonePlus is a VR game I am working on made to be a better version of BoneLab (no
 Logan/Sxptic: Developer, Calcium23
 SressLevelZero: ShaderGraphMirror, MarrowSDK/1Marrow
 ohioioio: Handpose, Assembly-CSharp, etc.
+mayognaise: Aframe Shaders
