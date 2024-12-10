@@ -10,3 +10,4 @@ Logan/Sxptic: Developer, Calcium23
 SressLevelZero: ShaderGraphMirror, MarrowSDK/1Marrow
 ohioioio: Handpose, Assembly-CSharp, etc.
 mayognaise: Aframe Shaders
+jrouwe: JoltPhysics
