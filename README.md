@@ -14,3 +14,4 @@ jrouwe: JoltPhysics
 lukis101: ParticleCloudVRC
 unitycoder: Shaders
 przemyslawzaworski & andybak: Unity3D-CG
+oxters168: VRPhysicsHands
