@@ -11,3 +11,5 @@ SressLevelZero: ShaderGraphMirror, MarrowSDK/1Marrow
 ohioioio: Handpose, Assembly-CSharp, etc.
 mayognaise: Aframe Shaders
 jrouwe: JoltPhysics
+lukis101: ParticleCloudVRC
+unitycoder: Shaders
