@@ -1,0 +1,27 @@
+V1.0.0    Patch 1    910ade2    17 Commits    12/10/24    C# 100%
+---------------
+GUID
+---------------
+LeanDummy 072c453b6c4d931489e52e92153ec7e6
+Barracuda bbc63fedb1b57384ba5d26c3b72de331
+HandPose cd92073babae7e54cb1e5929603bb15b
+MeshComponents 503fe5631e14b5d42bcba240e874c2e5
+PhysicsMaterials 4737608764e3b5d44a76b226e6ef0171
+RootMotion 41a6144be0d049640b3ddfeb5d7b722b
+Sentis 56d67daa2d2f5064e8bb53feeeb000ab
+com.unity.ml-agents 6a196efada461454e80d6aa976a139f3
+BinaryOps ad8a9e14dc808d04f5bf9ecf69e1702f
+DrawZCurveTester a6fbc173e335ef309102700862a17c38
+MortonCodes d076511c903512eebca8f22394e68e31
+AraTrail 9f81fe9ceff83b4851d3b50abab0e718
+BakeTrail d1a2a7f28f740f3258832b50dffddfc3
+ColorFromSpeed fdf9ab06172f2f91f3a8be56f5df74c3
+ElasticArray 26d096d93daad9d4d8f5e4dd4c827349
+ElectricalArc 78d4aa5d1ac954375ce67dfc1e80bfd2
+TireTrack 5917fbe0b95a4b5ce80c40c30d67e3c0
+TrailSection 73cd41573b0d24f4cdc33f7174759628
+AngleForeGrip b80e2b0a4dd29f94daf7c1bb2e0f2832
+BarrelGrip 70e011060882a574f9165d97d9f0fa60
+BoxCornerGrip 296da17d78eefd344a064cbb08d78481
+BoxEdgeGrip 7df3bb05839fa0b45a93af281bab683d
+BoxFaceGrip fe86da3ea81735f45871445f29eeb573
